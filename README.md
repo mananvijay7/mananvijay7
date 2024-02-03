@@ -1,4 +1,5 @@
 **Summary**
+********
 -- My aim is to give my best in whatever I'm doing. I love being in the tech industry. Always in awe of how it's evolving continuously. I like building new stuff and solving problems. I have done a couple of internships and 2 years of full-time experience in full-stack development. I'm well versed in MERN stack, Next.js, Java, problem-solving and agile. I'm currently looking for a co-op/internship, reach out to me if you have any leads. 
 
 - 👋 Hi, I’m @mananvijay7, I'm currently pursuing MS in Computer Software Engineering from Northeastern University, Boston
